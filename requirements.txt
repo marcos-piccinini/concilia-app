@@ -3,3 +3,5 @@ pandas
 openpyxl
 rapidfuzz
 streamlit-authenticator
+plotly
+psycopg2-binary
